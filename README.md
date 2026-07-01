@@ -12,7 +12,7 @@
 - 🎓 BCA Graduate from Loyola College. Currently preparing to crack TANCET for my MCA.
 - 🚀 **Building:** Modern Full-Stack Web and Mobile Applications. Recently built *TailorJunction*, a real-time MSME marketplace with live Socket.io integration.
 - 🤔 **Focusing on:** Clean, maintainable database architecture and code optimization using strict DRY and KISS principles.
-- 💬 **Ask me about:** MERN Stack, React Native, Oracle SQL, MongoDB, and competitive programming.
+- 💬 **Ask me about:** MERN Stack, React Native, Oracle, MySQL, MongoDB, and competitive programming.
 - 📫 **Reach me at:** sakthivelan.shankar@gmail.com
 - ⚡ **Fun fact:** I regularly stress-test my logic through coding challenges (Ranked #353 out of 9797 in Naukri CodeQuest #29).
 
