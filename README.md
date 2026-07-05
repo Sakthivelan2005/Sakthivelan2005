@@ -39,5 +39,10 @@
 
 ---
 
-### ✍️ Dev Quote
+### <sub><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/dfa0eac3-72e3-41e3-a572-b79226e5602d" /> </sub> Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=23B1F7&vCenter=true&width=435&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;Finally%2C+optimize+the+complexity." alt="Typing SVG" /></a>
+</div>
