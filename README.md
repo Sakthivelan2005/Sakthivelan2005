@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 BCA Graduate from Loyola College. Currently preparing to crack TANCET for my MCA.
+- 🎓 BCA Graduate from Loyola College.
 - 🚀 **Building:** Modern Full-Stack Web and Mobile Applications. Recently built *TailorJunction*, a real-time MSME marketplace with live Socket.io integration.
 - 🤔 **Focusing on:** Clean, maintainable database architecture and code optimization using strict DRY and KISS principles.
 - 💬 **Ask me about:** MERN Stack, React Native, Oracle, MySQL, MongoDB, and competitive programming.
