@@ -4,7 +4,8 @@
 🎓 **BCA Graduate from Loyola College, Chennai (8.97 CGPA)**  
 💻 **Building Clean, Scalable Applications | MERN & React Native Specialist**
 
-📧 **LinkedIn:** [linkedin.com/in/sakthivelan-s-5a7215318](https://www.linkedin.com/in/sakthivelan-s-5a7215318/)
+### <sub><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/106eb86b-6a6b-468c-90a4-90ba6c668260" /></sub> <sup>**Portfolio:** [sakthivelan.netlify.app](https://sakthivelan.netlify.app/)</sup>
+
 
 ---
 
