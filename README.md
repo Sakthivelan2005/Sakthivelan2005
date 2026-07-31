@@ -1,4 +1,4 @@
-# Hi, I'm Sakthivelan S<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="Verified" width="28" height="28" align="center" />
+# Hi, I'm Sakthivelan S <sup><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="Verified" width="28" height="28" align="center" /></sub>
 **Full-Stack Web & Mobile App Developer**
 
 🎓 **BCA Graduate from Loyola College, Chennai (8.97 CGPA)**  
