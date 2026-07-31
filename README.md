@@ -34,3 +34,4 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=23B1F7&vCenter=true&width=435&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;Finally%2C+optimize+the+complexity." alt="Typing SVG" /></a>
 </div>
+
