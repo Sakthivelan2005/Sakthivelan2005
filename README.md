@@ -1,4 +1,4 @@
-# Hi, I'm Sakthivelan S <sup><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="Verified" width="28" height="28" align="center" /></sub>
+# <sub>Hi, I'm Sakthivelan S</sub> <sup><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="Verified" width="28" height="28" align="center" /></sup>
 **Full-Stack Web & Mobile App Developer**
 
 🎓 **BCA Graduate from Loyola College, Chennai (8.97 CGPA)**  
@@ -22,9 +22,57 @@
 <a href="https://www.linkedin.com/in/sakthivelan-s-5a7215318/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Sakthivelan2005"><img src="https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:sakthivelan.shankar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
+# 💻 Technical Arsenal
 
-# 💻 Tech Stack
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+### 🧠 Core Logic & Scripting
+<p>
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Python</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /></sup>&nbsp;<strong>JavaScript</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30" /></sup>&nbsp;<strong>TypeScript</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://github.com/user-attachments/assets/75056ab8-35c2-4343-b36f-0e660c0a89ca" width="30" height="30" /></sup>&nbsp;<strong>DSA</strong> 
+</p>
+
+### 🗄️ Database Architecture
+<p>
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Oracle</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="30" /></sup>&nbsp;<strong>MySQL</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30" height="30" /></sup>&nbsp;<strong>MongoDB</strong>
+</p>
+
+### 🧰 Database GUI & Tools
+<p>
+  <sup><img align="center" src="https://img.icons8.com/color/48/000000/compass--v1.png" width="30" height="30" /></sup>&nbsp;<strong>DB Compass</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="30" /></sup>&nbsp;<strong>MySQL Workbench</strong>
+</p>
+
+### ⚙️ Backend & Event-Driven
+<p>
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Node.js</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.simpleicons.org/express/ffffff#gh-dark-mode-only" width="30" height="30" /><img align="center" src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" width="30" height="30" /></sup>&nbsp;<strong>Express.js</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.simpleicons.org/socketdotio/ffffff#gh-dark-mode-only" width="30" height="30" /><img align="center" src="https://cdn.simpleicons.org/socketdotio/000000#gh-light-mode-only" width="30" height="30" /></sup>&nbsp;<strong>Socket.IO</strong>
+</p>
+
+### 📱 Client Applications
+<p>
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" /></sup>&nbsp;<strong>React Native</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" /></sup>&nbsp;<strong>React.js</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.simpleicons.org/expo/ffffff#gh-dark-mode-only" width="30" height="30" /><img align="center" src="https://cdn.simpleicons.org/expo/000000#gh-light-mode-only" width="30" height="30" /></sup>&nbsp;<strong>Expo</strong>
+</p>
+
+### 🛠️ DevOps & Workflows
+<p>
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Git</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Postman</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Android Studio</strong>
+</p>
+
+### 🤝 Human Protocols
+<p>
+  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/conference.png" width="30" height="30" /></sup>&nbsp;<strong>Mentorship</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/code-file.png" width="30" height="30" /></sup>&nbsp;<strong>Code Auditing</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/settings.png" width="30" height="30" /></sup>&nbsp;<strong>Problem Solving</strong>
+</p>
+
 ---
 
 ### <sub><img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/dfa0eac3-72e3-41e3-a572-b79226e5602d" /> </sub> Dev Quote
@@ -34,4 +82,3 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=23B1F7&vCenter=true&width=435&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;Finally%2C+optimize+the+complexity." alt="Typing SVG" /></a>
 </div>
-
