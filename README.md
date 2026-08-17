@@ -1,8 +1,7 @@
 # <sub>Hi, I'm Sakthivelan S</sub> <sup><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" alt="Verified" width="28" height="28" align="center" /></sup>
-**Full-Stack Web & Mobile App Developer**
 
 🎓 **BCA Graduate from Loyola College, Chennai (8.97 CGPA)**  
-💻 **Building Clean, Scalable Applications | MERN & React Native Specialist**
+💻 **Diagnosing Complex Systems | API, Database & UI Troubleshooting**
 
 ### <sub><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/106eb86b-6a6b-468c-90a4-90ba6c668260" /></sub>**Portfolio:** [sakthivelan.me](https://sakthivelan.me/)
 
@@ -10,11 +9,11 @@
 
 ### 🚀 About Me
 - 🎓 BCA Graduate from Loyola College.
-- 🚀 **Building:** Modern Full-Stack Web and Mobile Applications. Recently built *TailorJunction*, a real-time MSME marketplace with live Socket.io integration.
-- 🤔 **Focusing on:** Clean, maintainable database architecture and code optimization using strict DRY and KISS principles.
-- 💬 **Ask me about:** MERN Stack, React Native, Oracle, MySQL, MongoDB, and competitive programming.
+- 🚀 **Execution:** Diving deep into MERN and React Native architectures to track down bugs, resolve API failures, and fix database bottlenecks. 
+- 🤔 **Focusing on:** Rapid issue resolution, clean system architecture, and optimizing logic using strict DRY and KISS principles.
+- 💬 **Ask me about:** Troubleshooting REST APIs, debugging MySQL queries, and resolving live server crashes.
 - 📫 **Reach me at:** sakthivelan.shankar@gmail.com
-- ⚡ **Fun fact:** I regularly stress-test my logic through coding challenges (Ranked #353 out of 9797 in Naukri CodeQuest #29).
+- ⚡ **Fun fact:** I regularly stress-test my analytical speed through coding challenges (Ranked #353 out of 9797 in Naukri CodeQuest #29).
 
 ---
 
@@ -24,7 +23,7 @@
 ---
 # 💻 Technical Arsenal
 
-### 🧠 Core Logic & Scripting
+### 🧠 Core Logic & Troubleshooting
 <p>
   <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Python</strong> &emsp;&emsp;
   <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /></sup>&nbsp;<strong>JavaScript</strong> &emsp;&emsp;
@@ -68,9 +67,9 @@
 
 ### 🤝 Human Protocols
 <p>
-  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/conference.png" width="30" height="30" /></sup>&nbsp;<strong>Mentorship</strong> &emsp;&emsp;
-  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/code-file.png" width="30" height="30" /></sup>&nbsp;<strong>Code Auditing</strong> &emsp;&emsp;
-  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/settings.png" width="30" height="30" /></sup>&nbsp;<strong>Problem Solving</strong>
+  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/conference.png" width="30" height="30" /></sup>&nbsp;<strong>Client Communication</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/code-file.png" width="30" height="30" /></sup>&nbsp;<strong>Root Cause Analysis</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://img.icons8.com/fluency/48/000000/settings.png" width="30" height="30" /></sup>&nbsp;<strong>Rapid Issue Resolution</strong>
 </p>
 
 ---
@@ -80,5 +79,5 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=23B1F7&vCenter=true&width=435&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;Finally%2C+optimize+the+complexity." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=23B1F7&vCenter=true&width=435&lines=First%2C+listen+to+the+issue.;Then%2C+diagnose+the+system.;Finally%2C+resolve+the+problem." alt="Typing SVG" /></a>
 </div>
