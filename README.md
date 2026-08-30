@@ -47,6 +47,7 @@
 ### ⚙️ Backend & Event-Driven
 <p>
   <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Node.js</strong> &emsp;&emsp;
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Postman</strong> &emsp;&emsp;  
   <sup><img align="center" src="https://cdn.simpleicons.org/express/ffffff#gh-dark-mode-only" width="30" height="30" /><img align="center" src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" width="30" height="30" /></sup>&nbsp;<strong>Express.js</strong> &emsp;&emsp;
   <sup><img align="center" src="https://cdn.simpleicons.org/socketdotio/ffffff#gh-dark-mode-only" width="30" height="30" /><img align="center" src="https://cdn.simpleicons.org/socketdotio/000000#gh-light-mode-only" width="30" height="30" /></sup>&nbsp;<strong>Socket.IO</strong>
 </p>
@@ -62,7 +63,6 @@
 ### 🛠️ DevOps & Workflows
 <p>
   <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Git</strong> &emsp;&emsp;
-  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Postman</strong> &emsp;&emsp;  
   <sup> <img align="center" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" width="40" height="40" alt="image"  /> </sup>&nbsp;<strong> Docker</strong>
 </p>
 
