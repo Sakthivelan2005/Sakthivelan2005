@@ -62,7 +62,13 @@
 <p>
   <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Git</strong> &emsp;&emsp;
   <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Postman</strong> &emsp;&emsp;
-  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Android Studio</strong>
+  <sup> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30" /></sup>&nbsp;<strong>Android Studio</strong>&emsp;&emsp;
+  <sup> <img align="center" src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" width="40" height="40" alt="image"  /> </sup>&nbsp;<strong> Docker</strong>
+</p>
+
+### 📊 Data Engineering & Processing
+<p>
+  <sup><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="30" height="30" /></sup>&nbsp;<strong>PySpark</strong>
 </p>
 
 ### 🤝 Human Protocols
